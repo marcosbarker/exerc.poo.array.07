@@ -3,13 +3,12 @@
 <h2   align="center">🎓
     Graduação em Tecnologia da Informação e Comunicação💻</h2>
  <p align="center">
-    <a href="https://github.com/marcosbarker/Exerc.-de-Prog.-Arranjos">
-        <img src="https://github.com/marcosbarker/Exerc.-de-Prog.-Arranjo/blob/main/img/faeterj-logo.jpg" alt="faeterj-logo">
+    <a href="https://github.com/marcosbarker/Exerc.-de-Prog.-Arranjo2">
+        <img src="https://github.com/marcosbarker/Exerc.-de-Prog.-Arranjo2/blob/main/img/faeterj-logo.jpg" alt="faeterj-logo">
     </a>
     </p>
 <h3 align="center">
     Disciplina de POO-Programação Orientada a Objetos em C++</h3>
-### 
 
 ### Exercício
 
@@ -20,7 +19,7 @@
 
 
 
-  ![01-equipe_produto]()
+  ![01-equipe_produto](https://github.com/marcosbarker/Exerc.-de-Prog.-Arranjo2/blob/main/img/img-1.jpg)
 
 
 
